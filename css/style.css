@@ -1,0 +1,71 @@
+#baslik{
+    width: 150px;
+    font-size: xx-large;
+    background-color: yellow;
+    text-align: center;
+    margin: auto;
+}
+#genel{
+    background-color: yellow;
+    width: 800px;
+    height: 800px;
+    display: grid; grid-template-columns: repeat(3, 3fr);
+    padding: 2px;
+    margin: auto;
+}
+#box1{
+    background-color: grey;
+    width: 264px;
+    height: 264px;
+}
+#box2{
+    background-color: white;
+    width: 264px;
+    height: 264px;
+}
+#box3{
+    background-color: grey;
+    width: 264px;
+    height: 264px;
+}
+#box4{
+    background-color: white;
+    width: 264px;
+    height: 264px;
+}
+#box5{
+    background-color: grey;
+    width: 264px;
+    height: 264px;
+}
+#box6{
+    background-color: white;
+    width: 264px;
+    height: 264px;
+
+}
+#box7{
+    background-color: grey;
+    width: 264px;
+    height: 264px;
+    fill: none;
+}
+#box8{
+    background-color: white;
+    width: 264px;
+    height: 264px;
+}
+#box9{
+    background-color: grey;
+    width: 264px;
+    height: 264px;
+}
+table{
+    width: 100%;
+    height: 100%;
+}
+tr,td{
+    border: 3px solid black;
+    text-align: center;
+    font-size: larger;
+}
